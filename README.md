@@ -170,7 +170,7 @@ Configuration is saved in `youtube_analyzer_config.json`:
 }
 ```
 
-## 🛠️ Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -197,7 +197,7 @@ Large channels may have incomplete results due to:
 - Try different URL formats (@username vs /c/channel)
 
 ### Debug Information
-Access via "🐛 Debug Info" button to see:
+Access via " Debug Info" button to see:
 - API call statistics
 - Loading strategy details
 - Error logs and quota status
@@ -226,7 +226,7 @@ youtube-channel-analyzer/
 - Continue from where you left off
 - Merge with existing data
 
-## 📈 Performance Tips
+##  Performance Tips
 
 ### For Large Channels (>10K videos)
 1. **Use multiple API keys** for better quota management
@@ -240,7 +240,7 @@ youtube-channel-analyzer/
 - **Multiple Projects**: Create separate Google Cloud projects
 - **Strategic Timing**: Plan analysis during low-usage periods
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please feel free to submit:
 
